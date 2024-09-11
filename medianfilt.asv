@@ -1,0 +1,11 @@
+function mf = medianfilt(x,N)
+    num_of_elem = (N - 1) / 2;
+    mf = [];
+    for i = num_of_elem
+        
+    end 
+    for i = x
+        
+        
+    end    
+end
